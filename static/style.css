@@ -1,0 +1,11 @@
+.jumbotron {
+    background-image: url("bags.jpg");
+    height: 300px;    
+}
+
+.jumbotron h1 {
+    color: white;
+	margin: auto;
+	width: 50%;
+	background-color: gray;
+}
